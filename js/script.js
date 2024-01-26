@@ -2,7 +2,7 @@ const kmToTravel = Number(prompt("Indica i km che vuoi percorrere"));
 
 const age = Number(prompt("Indica la tua età"));
 
-let kmPrice = 0.21 * 10;
+let kmPrice = 0.21;
 
 let discountedPrice = kmPrice;
 
